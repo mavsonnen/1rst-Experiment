@@ -9,5 +9,5 @@ lithops
 pandas
 pickle-mixin
 joblib
-glob
+glob2
 os
