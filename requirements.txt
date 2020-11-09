@@ -7,7 +7,7 @@ geopandas
 numpy
 lithops
 pandas
-pickle
+pickle-mixin
 joblib
 time
 glob
