@@ -2,7 +2,7 @@ sklearn
 shapely
 rasterio
 matplotlib
-earthpyaset
+earthpy
 geopandas
 numpy
 lithops
