@@ -10,4 +10,5 @@ pandas
 pickle-mixin
 joblib
 glob2
-os
+os_sys
+os-win
